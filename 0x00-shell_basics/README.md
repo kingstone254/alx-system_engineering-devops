@@ -1,1 +1,1 @@
-File type: School
+school.mgc
